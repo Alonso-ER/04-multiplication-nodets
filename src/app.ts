@@ -1,6 +1,5 @@
 import { yarg } from './config/plugins/yargs.plugin'
 import { ServerApp } from './presentation/server-app';
-import { SaveFile } from './domain/use-cases/save-file.use-case';
 
 // console.log(process.argv);
 // console.log(yarg.b);
